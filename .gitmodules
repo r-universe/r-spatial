@@ -2,84 +2,67 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
-	branch = HEAD
 [submodule "classInt"]
 	path = classInt
 	url = https://github.com/r-spatial/classint
 	shallow = true
-	branch = HEAD
 [submodule "gstat"]
 	path = gstat
 	url = https://github.com/r-spatial/gstat
 	shallow = true
-	branch = HEAD
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem
 	shallow = true
-	branch = HEAD
 [submodule "leafpm"]
 	path = leafpm
 	url = https://github.com/r-spatial/leafpm
 	shallow = true
-	branch = HEAD
 [submodule "leafpop"]
 	path = leafpop
 	url = https://github.com/r-spatial/leafpop
 	shallow = true
-	branch = HEAD
 [submodule "leafsync"]
 	path = leafsync
 	url = https://github.com/r-spatial/leafsync
 	shallow = true
-	branch = HEAD
 [submodule "link2GI"]
 	path = link2GI
 	url = https://github.com/r-spatial/link2gi
 	shallow = true
-	branch = HEAD
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/r-spatial/lwgeom
 	shallow = true
-	branch = HEAD
 [submodule "mapedit"]
 	path = mapedit
 	url = https://github.com/r-spatial/mapedit
 	shallow = true
-	branch = HEAD
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
 	shallow = true
-	branch = HEAD
 [submodule "RSAGA"]
 	path = RSAGA
 	url = https://github.com/r-spatial/rsaga
 	shallow = true
-	branch = HEAD
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
 	shallow = true
-	branch = HEAD
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
 	shallow = true
-	branch = HEAD
 [submodule "spatialreg"]
 	path = spatialreg
 	url = https://github.com/r-spatial/spatialreg
 	shallow = true
-	branch = HEAD
 [submodule "spdep"]
 	path = spdep
 	url = https://github.com/r-spatial/spdep
 	shallow = true
-	branch = HEAD
 [submodule "stars"]
 	path = stars
 	url = https://github.com/r-spatial/stars
 	shallow = true
-	branch = HEAD
