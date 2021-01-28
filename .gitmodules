@@ -43,6 +43,10 @@
 	path = mapview
 	url = https://github.com/r-spatial/mapview
 	shallow = true
+[submodule "rgee"]
+	path = rgee
+	url = https://github.com/r-spatial/rgee
+	shallow = true
 [submodule "RSAGA"]
 	path = RSAGA
 	url = https://github.com/r-spatial/rsaga
