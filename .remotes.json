@@ -99,6 +99,7 @@
     "package": "spatstat",
     "url": "https://github.com/baddstats/spatstat",
     "via": ["sf"],
+    "branch": "main",
     "from": "sf"
   },
   {
