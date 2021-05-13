@@ -8,106 +8,88 @@
 	url = https://github.com/r-spatial/classint
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gstat"]
 	path = gstat
 	url = https://github.com/r-spatial/gstat
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "leafpm"]
 	path = leafpm
 	url = https://github.com/r-spatial/leafpm
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "leafpop"]
 	path = leafpop
 	url = https://github.com/r-spatial/leafpop
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "leafsync"]
 	path = leafsync
 	url = https://github.com/r-spatial/leafsync
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "link2GI"]
 	path = link2GI
 	url = https://github.com/r-spatial/link2gi
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/r-spatial/lwgeom
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mapedit"]
 	path = mapedit
 	url = https://github.com/r-spatial/mapedit
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rgee"]
 	path = rgee
 	url = https://github.com/r-spatial/rgee
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RPyGeo"]
 	path = RPyGeo
 	url = https://github.com/r-spatial/RPyGeo
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RSAGA"]
 	path = RSAGA
 	url = https://github.com/r-spatial/rsaga
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "spatialreg"]
 	path = spatialreg
 	url = https://github.com/r-spatial/spatialreg
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "spdep"]
 	path = spdep
 	url = https://github.com/r-spatial/spdep
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "stars"]
 	path = stars
 	url = https://github.com/r-spatial/stars
 	shallow = true
 	registered = true
-	oncran = true
