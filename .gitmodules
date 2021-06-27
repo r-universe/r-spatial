@@ -60,7 +60,7 @@
 	registered = true
 [submodule "RPyGeo"]
 	path = RPyGeo
-	url = https://github.com/r-spatial/RPyGeo
+	url = https://github.com/r-spatial/rpygeo
 	shallow = true
 	registered = true
 [submodule "RSAGA"]
