@@ -58,6 +58,11 @@
 	url = https://github.com/r-spatial/rgee
 	shallow = true
 	registered = true
+[submodule "RPyGeo"]
+	path = RPyGeo
+	url = https://github.com/r-spatial/rpygeo
+	shallow = true
+	registered = true
 [submodule "RSAGA"]
 	path = RSAGA
 	url = https://github.com/r-spatial/rsaga
