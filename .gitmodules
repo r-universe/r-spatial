@@ -13,11 +13,6 @@
 	url = https://github.com/r-spatial/gstat
 	shallow = true
 	registered = true
-[submodule "leafem"]
-	path = leafem
-	url = https://github.com/r-spatial/leafem
-	shallow = true
-	registered = true
 [submodule "leafpm"]
 	path = leafpm
 	url = https://github.com/r-spatial/leafpm
@@ -31,11 +26,6 @@
 [submodule "leafsync"]
 	path = leafsync
 	url = https://github.com/r-spatial/leafsync
-	shallow = true
-	registered = true
-[submodule "link2GI"]
-	path = link2GI
-	url = https://github.com/r-spatial/link2gi
 	shallow = true
 	registered = true
 [submodule "lwgeom"]
