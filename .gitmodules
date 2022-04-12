@@ -53,6 +53,11 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = true
+[submodule "plainview"]
+	path = plainview
+	url = https://github.com/r-spatial/plainview
+	shallow = true
+	registered = true
 [submodule "rgee"]
 	path = rgee
 	url = https://github.com/r-spatial/rgee
@@ -76,6 +81,11 @@
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
+	shallow = true
+	registered = true
+[submodule "slideview"]
+	path = slideview
+	url = https://github.com/r-spatial/slideview
 	shallow = true
 	registered = true
 [submodule "spatialreg"]
