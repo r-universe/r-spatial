@@ -48,6 +48,10 @@
     "oncran": true
   },
   {
+    "package": "RPyGeo",
+    "oncran": true
+  },
+  {
     "package": "RSAGA",
     "oncran": true
   },
