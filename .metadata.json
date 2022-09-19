@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "gstat",
-    "oncran": true
-  },
-  {
     "package": "leafem",
     "oncran": true
   },
@@ -21,22 +17,6 @@
   },
   {
     "package": "leafsync",
-    "oncran": true
-  },
-  {
-    "package": "link2GI",
-    "oncran": true
-  },
-  {
-    "package": "lwgeom",
-    "oncran": true
-  },
-  {
-    "package": "mapedit",
-    "oncran": true
-  },
-  {
-    "package": "mapview",
     "oncran": true
   },
   {
