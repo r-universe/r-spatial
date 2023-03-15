@@ -1,10 +1,6 @@
 [
   {
-    "package": "leafpm",
-    "oncran": true
-  },
-  {
-    "package": "stars",
+    "package": "classInt",
     "oncran": true
   },
   {
@@ -12,35 +8,11 @@
     "oncran": true
   },
   {
-    "package": "s2",
+    "package": "leafem",
     "oncran": true
   },
   {
-    "package": "sf",
-    "oncran": true
-  },
-  {
-    "package": "lwgeom",
-    "oncran": true
-  },
-  {
-    "package": "spdep",
-    "oncran": true
-  },
-  {
-    "package": "spatialreg",
-    "oncran": true
-  },
-  {
-    "package": "classInt",
-    "oncran": true
-  },
-  {
-    "package": "mapview",
-    "oncran": true
-  },
-  {
-    "package": "slideview",
+    "package": "leafpm",
     "oncran": true
   },
   {
@@ -48,7 +20,23 @@
     "oncran": true
   },
   {
-    "package": "leafem",
+    "package": "leafsync",
+    "oncran": true
+  },
+  {
+    "package": "link2GI",
+    "oncran": true
+  },
+  {
+    "package": "lwgeom",
+    "oncran": true
+  },
+  {
+    "package": "mapedit",
+    "oncran": true
+  },
+  {
+    "package": "mapview",
     "oncran": true
   },
   {
@@ -56,11 +44,7 @@
     "oncran": true
   },
   {
-    "package": "leafsync",
-    "oncran": true
-  },
-  {
-    "package": "mapedit",
+    "package": "rgee",
     "oncran": true
   },
   {
@@ -72,11 +56,27 @@
     "oncran": true
   },
   {
-    "package": "link2GI",
+    "package": "s2",
     "oncran": true
   },
   {
-    "package": "rgee",
+    "package": "sf",
+    "oncran": true
+  },
+  {
+    "package": "slideview",
+    "oncran": true
+  },
+  {
+    "package": "spatialreg",
+    "oncran": true
+  },
+  {
+    "package": "spdep",
+    "oncran": true
+  },
+  {
+    "package": "stars",
     "oncran": true
   }
 ]
