@@ -18,6 +18,11 @@
 	url = https://github.com/r-spatial/leafem
 	shallow = true
 	registered = true
+[submodule "leafgl"]
+	path = leafgl
+	url = https://github.com/r-spatial/leafgl
+	shallow = true
+	registered = true
 [submodule "leafpm"]
 	path = leafpm
 	url = https://github.com/r-spatial/leafpm

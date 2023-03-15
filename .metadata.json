@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "leafgl",
+    "oncran": true
+  },
+  {
     "package": "leafpm",
     "oncran": true
   },
