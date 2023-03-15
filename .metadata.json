@@ -1,58 +1,14 @@
 [
   {
-    "package": "classInt",
-    "oncran": true
-  },
-  {
-    "package": "gstat",
-    "oncran": true
-  },
-  {
-    "package": "leafem",
-    "oncran": true
-  },
-  {
     "package": "leafpm",
     "oncran": true
   },
   {
-    "package": "leafpop",
+    "package": "stars",
     "oncran": true
   },
   {
-    "package": "leafsync",
-    "oncran": true
-  },
-  {
-    "package": "link2GI",
-    "oncran": true
-  },
-  {
-    "package": "lwgeom",
-    "oncran": true
-  },
-  {
-    "package": "mapedit",
-    "oncran": true
-  },
-  {
-    "package": "mapview",
-    "oncran": true
-  },
-  {
-    "package": "plainview",
-    "oncran": true
-  },
-  {
-    "package": "rgee",
-    "oncran": true
-  },
-  {
-    "package": "RPyGeo",
-    "oncran": true
-  },
-  {
-    "package": "RSAGA",
+    "package": "gstat",
     "oncran": true
   },
   {
@@ -64,11 +20,7 @@
     "oncran": true
   },
   {
-    "package": "slideview",
-    "oncran": true
-  },
-  {
-    "package": "spatialreg",
+    "package": "lwgeom",
     "oncran": true
   },
   {
@@ -76,7 +28,55 @@
     "oncran": true
   },
   {
-    "package": "stars",
+    "package": "spatialreg",
+    "oncran": true
+  },
+  {
+    "package": "classInt",
+    "oncran": true
+  },
+  {
+    "package": "mapview",
+    "oncran": true
+  },
+  {
+    "package": "slideview",
+    "oncran": true
+  },
+  {
+    "package": "leafpop",
+    "oncran": true
+  },
+  {
+    "package": "leafem",
+    "oncran": true
+  },
+  {
+    "package": "plainview",
+    "oncran": true
+  },
+  {
+    "package": "leafsync",
+    "oncran": true
+  },
+  {
+    "package": "mapedit",
+    "oncran": true
+  },
+  {
+    "package": "RPyGeo",
+    "oncran": true
+  },
+  {
+    "package": "RSAGA",
+    "oncran": true
+  },
+  {
+    "package": "link2GI",
+    "oncran": true
+  },
+  {
+    "package": "rgee",
     "oncran": true
   }
 ]
