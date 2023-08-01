@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RPyGeo"]
+	path = RPyGeo
+	url = https://github.com/r-spatial/rpygeo
+[submodule "RSAGA"]
+	path = RSAGA
+	url = https://github.com/r-spatial/rsaga
 [submodule "classInt"]
 	path = classInt
 	url = https://github.com/r-spatial/classint
@@ -41,12 +47,6 @@
 [submodule "rgee"]
 	path = rgee
 	url = https://github.com/r-spatial/rgee
-[submodule "RPyGeo"]
-	path = RPyGeo
-	url = https://github.com/r-spatial/rpygeo
-[submodule "RSAGA"]
-	path = RSAGA
-	url = https://github.com/r-spatial/rsaga
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
