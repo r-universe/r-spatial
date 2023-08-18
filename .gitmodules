@@ -44,6 +44,9 @@
 [submodule "plainview"]
 	path = plainview
 	url = https://github.com/r-spatial/plainview
+[submodule "qgisprocess"]
+	path = qgisprocess
+	url = https://github.com/r-spatial/qgisprocess
 [submodule "rgee"]
 	path = rgee
 	url = https://github.com/r-spatial/rgee
