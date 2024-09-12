@@ -56,6 +56,9 @@
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
+[submodule "sftime"]
+	path = sftime
+	url = https://github.com/r-spatial/sftime
 [submodule "slideview"]
 	path = slideview
 	url = https://github.com/r-spatial/slideview
