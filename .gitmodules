@@ -11,6 +11,9 @@
 [submodule "classInt"]
 	path = classInt
 	url = https://github.com/r-spatial/classint
+[submodule "geoarrowWidget"]
+	path = geoarrowWidget
+	url = https://github.com/r-spatial/geoarrowwidget
 [submodule "gstat"]
 	path = gstat
 	url = https://github.com/r-spatial/gstat
